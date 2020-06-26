@@ -14,7 +14,7 @@ In data/settings.json:
 
 "token" value -> "one_of_your_bots_token"
 "head_developer" value -> "your_user_id"
-"devmode" value -> true/false (true will make it so only you can use the bot. the way that events are handled, devmode does not apply)
+"devMode" value -> true/false (true will make it so only you can use the bot. the way that events are handled, devmode does not apply)
 ```
 
 Remember to run `npm i` before trying to run the index.js file w/ node.
