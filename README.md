@@ -6,7 +6,7 @@ I scrapped the project early after finding that there were lots of other pokemon
 
 There is little data in it.
 
-**Uses node.js v13 & Discord.js v12
+**Uses node.js v13 & Discord.js v12**
 
 ## Stuff to change
 ```
