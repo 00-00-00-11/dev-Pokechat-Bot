@@ -1,0 +1,11 @@
+{
+  "name": "pokechat",
+  "author": "MiCROZi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}

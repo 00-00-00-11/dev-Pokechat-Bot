@@ -1,0 +1,7 @@
+{
+    "token": "bot_token_here",
+    "prefix": "!",
+    "head_developer": "your_id_here",
+    "developers": [],
+    "devMode": false
+}

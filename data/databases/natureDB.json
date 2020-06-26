@@ -1,0 +1,129 @@
+{
+    "natures": [
+        {
+            "name": "Adamant",
+            "increase": "atk",
+            "decrease": "spatk"
+        },
+        {
+            "name": "Bashful",
+            "increase": "spatk",
+            "decrease": "spatk"
+        },
+        {
+            "name": "Bold",
+            "increase": "def",
+            "decrease": "atk"
+        },
+        {
+            "name": "Brave",
+            "increase": "atk",
+            "decrease": "speed"
+        },
+        {
+            "name": "Calm",
+            "increase": "spdef",
+            "decrease": "atk"
+        },
+        {
+            "name": "Careful",
+            "increase": "spdef",
+            "decrease": "spatk"
+        },
+        {
+            "name": "Docile",
+            "increase": "def",
+            "decrease": "def"
+        },
+        {
+            "name": "Gentle",
+            "increase": "spdef",
+            "decrease": "def"
+        },
+        {
+            "name": "Hardy",
+            "increase": "atk",
+            "decrease": "atk"
+        },
+        {
+            "name": "Hasty",
+            "increase": "speed",
+            "decrease": "def"
+        },
+        {
+            "name": "Impish",
+            "increase": "def",
+            "decrease": "spatk"
+        },
+        {
+            "name": "Jolly",
+            "increase": "speed",
+            "decrease": "spatk"
+        },
+        {
+            "name": "Lax",
+            "increase": "def",
+            "decrease": "spdef"
+        },
+        {
+            "name": "Lonely",
+            "increase": "atk",
+            "decrease": "def"
+        },
+        {
+            "name": "Mild",
+            "increase": "spatk",
+            "decrease": "def"
+        },
+        {
+            "name": "Modest",
+            "increase": "spatk",
+            "decrease": "atk"
+        },
+        {
+            "name": "Naive",
+            "increase": "speed",
+            "decrease": "spdef"
+        },
+        {
+            "name": "Naughty",
+            "increase": "atk",
+            "decrease": "spdef"
+        },
+        {
+            "name": "Quiet",
+            "increase": "spatk",
+            "decrease": "speed"
+        },
+        {
+            "name": "Quirky",
+            "increase": "spdef",
+            "decrease": "spdef"
+        },
+        {
+            "name": "Rash",
+            "increase": "spatk",
+            "decrease": "spdef"
+        },
+        {
+            "name": "Relaxed",
+            "increase": "def",
+            "decrease": "speed"
+        },
+        {
+            "name": "Sassy",
+            "increase": "spdef",
+            "decrease": "speed"
+        },
+        {
+            "name": "Serious",
+            "increase": "speed",
+            "decrease": "atk"
+        },
+        {
+            "name": "Timid",
+            "increase": "speed",
+            "decrease": "atk"
+        }
+    ]
+}

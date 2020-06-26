@@ -1,0 +1,22 @@
+{
+    "red": 16711680,
+    "light_red": 16737894,
+    "dark_red": 10158080,
+    "orange": 16749824,
+    "light_orange": 16761943,
+    "dark_orange": 16747520,
+    "yellow": 16774912,
+    "light_yellow": 16777104,
+    "dark_yellow": 14408448,
+    "green": 2148624,
+    "light_green": 11403040,
+    "dark_green": 878592,
+    "blue": 11007,
+    "light_blue": 3395071,
+    "dark_blue": 139,
+    "purple": 8388736,
+    "light_purple": 14876899,
+    "dark_purple": 5772632,
+    "blurple": 7506394,
+    "white": 16777215
+}

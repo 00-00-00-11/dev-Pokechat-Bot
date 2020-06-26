@@ -1,0 +1,439 @@
+{
+    "pokemon": [
+        {
+            "name": "Bulbasaur",
+            "nickname": null,
+            "level": null,
+            "exp": {
+                "exp": null,
+                "expMax": 100
+            },
+            "friendship": 50,
+            "tags": {
+                "rarity": "CMMN",
+                "isShiny": null,
+                "hasEvo": true,
+                "hasPreEvo": false,
+                "hasFormEvo": false,
+                "formEvo": null,
+                "isMega": false,
+                "starter": true
+            },
+            "evolutions": [
+                {
+                    "name": "Ivysaur",
+                    "level": 16
+                }
+            ],
+            "img": {
+                "normal": "https://i.imgur.com/0MgTxdz.png",
+                "shiny": "https://i.imgur.com/E21ZsJ6.png"
+            },
+            "types": {
+                "primary": "Grass",
+                "secondary": "Poison"
+            },
+            "nature": null,
+            "moves": {
+                "unlockable": [
+                    {
+                        "level": 0,
+                        "move": "Tackle"
+                    },
+                    {
+                        "level": 0,
+                        "move": "Growl"
+                    },
+                    {
+                        "level": 7,
+                        "move": "Leech Seed"
+                    },
+                    {
+                        "level": 13,
+                        "move": "Vine Whip"
+                    },
+                    {
+                        "level": 20,
+                        "move": "Poison Powder"
+                    },
+                    {
+                        "level": 27,
+                        "move": "Razor Leaf"
+                    },
+                    {
+                        "level": 34,
+                        "move": "Growth"
+                    },
+                    {
+                        "level": 41,
+                        "move": "Sleep Powder"
+                    },
+                    {
+                        "level": 48,
+                        "move": "Solar Beam"
+                    }
+                ]
+            },
+            "stats": {
+                "hp": 45,
+                "atk": 49,
+                "def": 49,
+                "spatk": 65,
+                "spdef": 65,
+                "speed": 45
+            },
+            "ivs": {
+                "hp": null,
+                "atk": null,
+                "def": null,
+                "spatk": null,
+                "spdef": null,
+                "speed": null
+            }
+        },
+        {
+            "name": "Charmander",
+            "nickname": null,
+            "level": null,
+            "exp": {
+                "exp": null,
+                "expMax": 100
+            },
+            "friendship": 50,
+            "tags": {
+                "rarity": "CMMN",
+                "isShiny": null,
+                "hasEvo": true,
+                "hasPreEvo": false,
+                "hasMegaEvo": false,
+                "megaEvo": null,
+                "isMega": false,
+                "starter": true
+            },
+            "evolutions": [
+                {
+                    "name": "Charmeleon",
+                    "level": 16,
+                    "evoType": "natural"
+                }
+            ],
+            "img": {
+                "normal": "https://i.imgur.com/Ht9BsPc.png",
+                "shiny": "https://lh3.googleusercontent.com/proxy/4Ochy_QNcXdMiZYb9Nwe7HwBbTjD2GgLBTzNOMvilbZMMwv0OiIconSNWShE_ykP2DYop26sVMbsWkU49dxqvnPwZ1255SG08MmfwizJF-ypLzxQw_KiJ5jtfrKBgNWcwPv0Ug"
+            },
+            "types": {
+                "primary": "Fire",
+                "secondary": null
+            },
+            "nature": null,
+            "moves": {
+                "unlockable": [
+                    {
+                        "level": 0,
+                        "move": "Scratch"
+                    },
+                    {
+                        "level": 0,
+                        "move": "Growl"
+                    },
+                    {
+                        "level": 9,
+                        "move": "Ember"
+                    },
+                    {
+                        "level": 15,
+                        "move": "Leer"
+                    },
+                    {
+                        "level": 22,
+                        "move": "Rage"
+                    },
+                    {
+                        "level": 30,
+                        "move": "Slash"
+                    },
+                    {
+                        "level": 38,
+                        "move": "Flamethrower"
+                    },
+                    {
+                        "level": 46,
+                        "move": "Fire Spin"
+                    }
+                ]
+            },
+            "stats": {
+                "hp": 39,
+                "atk": 52,
+                "def": 43,
+                "spatk": 50,
+                "spdef": 50,
+                "speed": 65
+            },
+            "ivs": {
+                "hp": null,
+                "atk": null,
+                "def": null,
+                "spatk": null,
+                "spdef": null,
+                "speed": null
+            }
+        },
+        {
+            "name": "Squirtle",
+            "nickname": null,
+            "level": null,
+            "exp": {
+                "exp": null,
+                "expMax": 100
+            },
+            "friendship": 50,
+            "tags": {
+                "rarity": "CMMN",
+                "isShiny": null,
+                "hasEvo": true,
+                "hasPreEvo": false,
+                "hasMegaEvo": false,
+                "megaEvo": null,
+                "isMega": false,
+                "starter": true
+            },
+            "evolutions": [
+                {
+                    "name": "Wartortle",
+                    "level": 16,
+                    "evoType": "natural"
+                }
+            ],
+            "img": {
+                "normal": "https://i.imgur.com/hTNQom1.png",
+                "shiny": "https://lh3.googleusercontent.com/proxy/4Ochy_QNcXdMiZYb9Nwe7HwBbTjD2GgLBTzNOMvilbZMMwv0OiIconSNWShE_ykP2DYop26sVMbsWkU49dxqvnPwZ1255SG08MmfwizJF-ypLzxQw_KiJ5jtfrKBgNWcwPv0Ug"
+            },
+            "types": {
+                "primary": "Water",
+                "secondary": null
+            },
+            "nature": null,
+            "moves": {
+                "unlockable": [
+                    {
+                        "level": 0,
+                        "move": "Tackle"
+                    },
+                    {
+                        "level": 0,
+                        "move": "Tail Whip"
+                    },
+                    {
+                        "level": 8,
+                        "move": "Bubble"
+                    },
+                    {
+                        "level": 15,
+                        "move": "Water Gun"
+                    },
+                    {
+                        "level": 22,
+                        "move": "Bite"
+                    },
+                    {
+                        "level": 28,
+                        "move": "Withdraw"
+                    },
+                    {
+                        "level": 35,
+                        "move": "Skull Bash"
+                    },
+                    {
+                        "level": 42,
+                        "move": "Hydro Pump"
+                    }
+                ]
+            },
+            "stats": {
+                "hp": 44,
+                "atk": 48,
+                "def": 65,
+                "spatk": 50,
+                "spdef": 50,
+                "speed": 43
+            },
+            "ivs": {
+                "hp": null,
+                "atk": null,
+                "def": null,
+                "spatk": null,
+                "spdef": null,
+                "speed": null
+            }
+        },
+        {
+            "name": "Zacian",
+            "nickname": null,
+            "level": null,
+            "exp": {
+                "exp": null,
+                "expMax": 100
+            },
+            "friendship": 0,
+            "tags": {
+                "rarity": "LGDN",
+                "isShiny": null,
+                "hasEvo": false,
+                "hasPreEvo": false,
+                "hasFormEvo": true,
+                "formEvo": {
+                    "name": "Crowned Sword",
+                    "item": "Rusted Sword"
+                },
+                "isMega": false,
+                "starter": false
+            },
+            "evolutions": null,
+            "img": {
+                "normal": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png",
+                "shiny": "https://i.imgur.com/E21ZsJ6.png"
+            },
+            "types": {
+                "primary": "Fairy",
+                "secondary": "Steel"
+            },
+            "nature": null,
+            "moves": {
+                "unlockable": [
+                ]
+            },
+            "stats": {
+                "hp": 92,
+                "atk": 130,
+                "def": 115,
+                "spatk": 80,
+                "spdef": 115,
+                "speed": 148
+            },
+            "ivs": {
+                "hp": null,
+                "atk": null,
+                "def": null,
+                "spatk": null,
+                "spdef": null,
+                "speed": null
+            }
+        },
+        {
+            "name": "Eevee",
+            "nickname": null,
+            "level": null,
+            "exp": {
+                "exp": null,
+                "expMax": 100
+            },
+            "friendship": 50,
+            "holding": null,
+            "tags": {
+                "rarity": "CMMN",
+                "isShiny": null,
+                "hasEvo": true,
+                "hasPreEvo": false,
+                "hasMegaEvo": false,
+                "megaEvo": null,
+                "isMega": false,
+                "starter": false
+            },
+            "evolutions": [
+                {
+                    "name": "Vaporeon",
+                    "stone": "Water Stone"
+                },
+                {
+                    "name": "Jolteon",
+                    "stone": "Thunder Stone"
+                },
+                {
+                    "name": "Flareon",
+                    "stone": "Fire Stone"
+                },
+                {
+                    "name": "Espeon",
+                    "time": "day",
+                    "friendship": 220
+                },
+                {
+                    "name": "Umbreon",
+                    "time": "night",
+                    "friendship": 220
+                },
+                {
+                    "name": "Leafeon",
+                    "stone": "Leaf Stone"
+                },
+                {
+                    "name": "Sylveon",
+                    "friendship": 160,
+                    "moves_includes_types": "Fairy"
+                }
+            ],
+            "img": {
+                "normal": "https://i.imgur.com/hTNQom1.png",
+                "shiny": "https://lh3.googleusercontent.com/proxy/4Ochy_QNcXdMiZYb9Nwe7HwBbTjD2GgLBTzNOMvilbZMMwv0OiIconSNWShE_ykP2DYop26sVMbsWkU49dxqvnPwZ1255SG08MmfwizJF-ypLzxQw_KiJ5jtfrKBgNWcwPv0Ug"
+            },
+            "types": {
+                "primary": "Normal",
+                "secondary": null
+            },
+            "nature": null,
+            "moves": {
+                "unlockable": [
+                    {
+                        "level": 0,
+                        "move": "Tackle"
+                    },
+                    {
+                        "level": 0,
+                        "move": "Tail Whip"
+                    },
+                    {
+                        "level": 8,
+                        "move": "Bubble"
+                    },
+                    {
+                        "level": 15,
+                        "move": "Water Gun"
+                    },
+                    {
+                        "level": 22,
+                        "move": "Bite"
+                    },
+                    {
+                        "level": 28,
+                        "move": "Withdraw"
+                    },
+                    {
+                        "level": 35,
+                        "move": "Skull Bash"
+                    },
+                    {
+                        "level": 42,
+                        "move": "Hydro Pump"
+                    }
+                ]
+            },
+            "stats": {
+                "hp": 44,
+                "atk": 48,
+                "def": 65,
+                "spatk": 50,
+                "spdef": 50,
+                "speed": 43
+            },
+            "ivs": {
+                "hp": null,
+                "atk": null,
+                "def": null,
+                "spatk": null,
+                "spdef": null,
+                "speed": null
+            }
+        }
+    ]
+}
